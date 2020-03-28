@@ -1,2 +1,0 @@
-# HOCExamples
-Created with CodeSandbox
